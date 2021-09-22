@@ -1,0 +1,17 @@
+Copy or move files from one dir to another dir using python.
+
+when you have multiple files and you have to filter out by scrolling them manually
+it's very time consuming.
+
+few days ago, when I face this situation and I went for manual process
+and it takes 3 days to complete this process.
+
+Now I created this code to move or copy files by skipping them.
+
+****************
+what to do before running this code
+
+1. set your source folder path.
+2. give input of files to be skipped between of it.
+3. then run the code.
+
