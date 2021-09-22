@@ -1,4 +1,4 @@
-# My_Learning
+# My_Learning at Rams
 Solution of problems faced in work
 
 
@@ -19,3 +19,9 @@ Check replace_value_of_xml_tag and readME.txt file
 3. Problem:
 How to copy or move some files from multiple folders and save them in their corresponding folder too?
 Check copy_or_move_files_multi_folders and readME.txt file
+
+
+************************************
+4. Problem:
+Download the Nails segementation program from github and improve it for segmentation of nails using Open CV.
+Check nails segementation and readME.md file
