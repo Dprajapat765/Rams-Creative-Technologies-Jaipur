@@ -1,0 +1,22 @@
+**************
+How to extract data from multiple json files and save in text file.
+**************
+
+This is also helpful in computer vision or deep learning projects.
+
+####
+when you labelled the images to train a deep learning model,
+all you labelled images saves your annotations in X or Y cordinates,
+means to say when you mark or annotate or labelled an image, it saves 
+your annotations in a file format like XML or JSON etc...
+
+
+####
+these files contains some data with X and Y cordinates,
+in this program, I am going to read multiple files and
+extract that cordinates and saves them in a text file,
+this text file is saved as a format in which we train data 
+on YOLO. 
+
+#see example image of YOLO format.
+yolo_format.png
