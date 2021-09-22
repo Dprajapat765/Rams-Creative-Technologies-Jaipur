@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pto_guard_warning_sticker80.jpg</filename>
+	<path>C:\Users\vaibhav\Desktop\train\images\Pto_guard_warning_sticker80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pto_guard_inside_warning_sticker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>608</xmin>
+			<ymin>250</ymin>
+			<xmax>1049</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+</annotation>

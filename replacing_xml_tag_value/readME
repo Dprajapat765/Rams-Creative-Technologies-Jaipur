@@ -1,0 +1,11 @@
+# How to replace/change value of a XML tag.
+
+# problem statement:- I was working on a computer vision project, in which my work is to label or mark images using a tool named LabelImg, which create the xml files of your labelled images. While labeling images, I make a mistake. I have mistype the name of class name and It means I have completely change the name of the class now. So, now I have to change the name of the class by replacing the value of that tag which store the value/text. 
+
+What to do before running the code :
+1. first find that tag which contains text value's tag or whose sub element is your text value tag.
+2. find that tag which can give the access to text/value.
+3. enter the value to be replaced with new value.
+4. run the code
+
+
